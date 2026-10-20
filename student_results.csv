@@ -1,0 +1,22 @@
+Student_ID,Name,Department,Python,DBMS,Networking,AI,Attendance,Total_Marks,Average_Marks,Grade,Result
+2301,Mudasir Ahmad,CSE,72,64,65,67,73,268.0,67.0,C,Pass
+2302,Umar Farooq,ECE,69,68,48,77,80,262.0,65.5,C,Pass
+2303,Ankit Tiwari,IT,35,60,51,45,75,191.0,47.75,F,Fail
+2304,Tabassum Akhtar,IT,66,63,77,84,97,290.0,72.5,B,Pass
+2305,Harsh Vardhan,ECE,79,79,61,73,85,292.0,73.0,B,Pass
+2306,Tariq Hussain,ECE,76,63,80,79,81,298.0,74.5,B,Pass
+2307,Bushra Zahgeer,CSE,96,94,97,95,98,382.0,95.5,A+,Pass
+2308,Deepak Chauhan,ECE,92,90,80,83,64,345.0,86.25,A,Pass
+2309,Sana Bhat,CSE,86,76,74,84,75,320.0,80.0,A,Pass
+2310,Saba Wani,IT,62,73,69,72,90,276.0,69.0,C,Pass
+2311,Rubina Khan,CSE,43,38,69,62,76,212.0,53.0,D,Fail
+2312,Rajesh Koul,IT,66,72,75,87,80,300.0,75.0,B,Pass
+2313,Kavya Reddy,ECE,92,89,68,78,64,327.0,81.75,A,Pass
+2314,Yasir Khan,CSE,63,72,39,61,77,235.0,58.75,D,Fail
+2315,Vivek Sharma,ECE,90,92,92,92,81,366.0,91.5,A+,Pass
+2316,Insha Malik,IT,78,92,79,65,67,314.0,78.5,B,Pass
+2317,Hamza Qureshi,ECE,88,74,79,80,86,321.0,80.25,A,Pass
+2318,Rohit Bhat,CSE,64,61,63,66,75,254.0,63.5,C,Pass
+2319,Meera Joshi,IT,73,83,86,80,66,322.0,80.5,A,Pass
+2320,Sneha Iyer,CSE,66,53,64,70,80,253.0,63.25,C,Pass
+2321,Aman Verma,ECE,90,72,71,82,97,315.0,78.75,B,Pass
